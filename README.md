@@ -38,7 +38,7 @@ React	Postgres	Git
 TypeScript	Redis	Vercel
 TailwindCSS	NodeJS	Figma
 🌐 Connect
-Portfolio: rizwanul.com
+Portfolio: [Rizwanul Islam Afraim](https://portfolio-rizwanul.vercel.app/)
 LinkedIn: rizwanul-islam-afraim99
 X (Twitter): @rizwanul_afraim
 Email: afraim.afraim99@gmail.com
