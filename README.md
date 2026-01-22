@@ -55,7 +55,7 @@ I architect scalable, high-performance digital ecosystems. My work bridges the g
 
 ## 🌐 Connect
 
-- **Portfolio**: [Rizwanul Islam Afraim](https://portfolio-rizwanul.vercel.app/)
+- **Portfolio**: [Rizwanul Islam Afraim](https://www.rizwanulafraim.com/)
 - **LinkedIn**: [Rizwwanul Islam](https://www.linkedin.com/in/rizwanul-islam-afraim99/)
 - **X (Twitter)**: [@Rizwanul Afraim](https://x.com/rizwanul_afraim)
 - **Email**: `afraim.afraim99@gmail.com`
